@@ -4,13 +4,9 @@ A collection of extension methods for Dictionary in C#.
 
 ## Installation :wrench: 
 
-Install via NuGet:
+Not yet available as NuGet package.
 
-```bash
-Install-Package DictionaryExtensions
-```
-
-Or just copy whatever you need from this repository :) 
+Just copy whatever you need from this repository :) 
 
 ## Usage
 
